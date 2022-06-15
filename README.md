@@ -1,6 +1,7 @@
 - 👋 Hello, I’m @jaguarRubio
+- I programming daily.
 - 👀 I’m interested in ...
-- Technology and programming daily.
+- Technology
 - 🌱 I’m currently learning ...
 - Python 3, programming fundamentals, version control system, and data bases
 - 
