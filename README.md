@@ -1,7 +1,7 @@
 - 👋 Hello, I’m @jaguarRubio
 - I programming daily.
 - 👀 I’m interested in ...
-- Technology & back-end. I want to be an game developer
+- Technology & back-end. I want to be a game developer
 - 🌱 I’m currently learning ...
 - Python 3, programming fundamentals, version control system, and data bases
 - 
