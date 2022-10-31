@@ -1,5 +1,5 @@
 - Hello, I’m @jaguarRubio
-- - I programming daily, else if reading (in ord. to programming).
+- - I programming daily, else if reading (in ord. to typing).
 - I’m interested in ...
 - - Technology & back-end. I want to be a videogame developer due I like the whole thing
 - I’m currently learning ...
